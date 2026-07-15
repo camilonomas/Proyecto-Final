@@ -2,7 +2,7 @@
 
 ## 1. Código del Proyecto
 El código ejecutable y reproducible (con semillas fijas y comentado) se encuentra aquí:
-[Enlace al Notebook de Colab](PEGA_AQUI_TU_ENLACE_DE_COLAB)
+[Enlace al Notebook de Colab](https://colab.research.google.com/drive/1lCZ9Cnp6bBUsrXVj9vgFIFOzHxBmzfHP?usp=sharing)
 
 ## 2. Implementación
 Este proyecto evalúa tres paradigmas de detección para vigilar el equipo de protección personal (EPP) en una obra, utilizando el dataset CSS-Data.
